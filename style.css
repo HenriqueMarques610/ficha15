@@ -469,7 +469,7 @@ circle{
     animation: animate6 3s ease-in-out infinite;
 }
 .loader6 span:nth-child(1){
-    top: 0;
+    top: 0;  
     left: 0;
     right: 0;
     bottom: 0;
